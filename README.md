@@ -64,12 +64,7 @@ You can download from the appstore if you use an iPhone, iPad or a Mac with Sili
 ## 🤓 Author(s)
 
 **Festus Babajide Olusegun**
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+[![Follow](https://www.instagram.com/_affidev/)
+Afnan Shams
 
-## 🔖 LICENCE
 
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
-
-<a href="https://github.com/JideGuru/FlutterEbookApp">
-        <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JideGuru/FlutterEbookApp&type=Date">
-      </a>
