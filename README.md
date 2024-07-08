@@ -1,15 +1,4 @@
-# 📖📖 OpenLeaf (Flutter eBook App) [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-A simple Flutter app to Read and Download books. The Books included in the app
-are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
-(Expired Copyright and completely free).
-
-<a href="http://www.feedbooks.com/"><img src="ss/logo_feedbooks.png" width="200"/></a>
-<br>
-
-The [Feedbooks API](http://www.feedbooks.com/api) was used to fetch books. <br>
+# 📖📖 OpenLeaf (Flutter eBook App) 
 <br>
 <a href="https://www.vecteezy.com/vector-art/599678-book-reading-logo-and-symbols-template-icons">App
 icon</a> <br> <br>
